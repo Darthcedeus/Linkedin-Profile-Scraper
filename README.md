@@ -31,3 +31,6 @@ frame.to_csv('results_.csv')
 driver.quit()
 
 ```
+
+## Currently Working
+This scrapper was last tested on June 14, 2020.
